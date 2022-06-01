@@ -22,7 +22,7 @@ void insert_sort2(char a[], int length)
     int t = a[i];
     for(int j = i; j > 0; j--)
     {
-      if(t <= a[j] && t > a[j - 1])
+      if(t >= a[j - 1] || ((j + 1 < length ? t <= a[j + 1] : true) && t >= a[j - 1]))
       {
         a[j] = t;
         break;
