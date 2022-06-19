@@ -1,0 +1,60 @@
+https://sh.visualon.com/node/72603	[Verimatrix][iOS][VTB]Black screen when playback https://s3-us-west-1.amazonaws.com/integration-support/public_content/live-videomark/tears_of_steel.m3u8
+https://sh.visualon.com/node/73163	[Downloader] Renew key operation deletes other downloaded keys
+https://sh.visualon.com/node/72553	[Verimatrix] Video mark(black rectangel) flash seriously if playback with Mediacodec.
+https://sh.visualon.com/node/71409	Application not responding (ANR) on player stop
+https://sh.visualon.com/node/71409	Application not responding (ANR) on player stop
+https://sh.visualon.com/node/71409	Application not responding (ANR) on player stop
+https://sh.visualon.com/node/71409	Application not responding (ANR) on player stop
+https://sh.visualon.com/node/73054	[Standalone App - Plugin] Mac OS version of standalone app SD for Arris integration and tests
+https://sh.visualon.com/node/68801	[MediaCrypto] Please estimate the effort to enable PlayReady with MediaCrypto on VisualOnWV package</a>&nbsp;<a href="/taxonomy/term/2903"><span class="terms terms-inline">[RI]</span>
+https://sh.visualon.com/node/68801	[MediaCrypto] Please estimate the effort to enable PlayReady with MediaCrypto on VisualOnWV package</a>&nbsp;<a href="/taxonomy/term/2903"><span class="terms terms-inline">[RI]</span>
+https://sh.visualon.com/node/68801	[MediaCrypto] Please estimate the effort to enable PlayReady with MediaCrypto on VisualOnWV package</a>&nbsp;<a href="/taxonomy/term/2903"><span class="terms terms-inline">[RI]</span>
+https://sh.visualon.com/node/68801	[MediaCrypto] Please estimate the effort to enable PlayReady with MediaCrypto on VisualOnWV package</a>&nbsp;<a href="/taxonomy/term/2903"><span class="terms terms-inline">[RI]</span>
+https://sh.visualon.com/node/72004	[Multiple parallel] Player error after play about 10 mins for 4 parallel Verimatrix DRM playback.
+https://sh.visualon.com/node/69475	[MediaCrypto] VisualOn Playready cannot work on AndroidTV and most STB devices.
+https://sh.visualon.com/node/66762	[WB]Video is completely mosaic after overdue -&gt;normal time playback whereas ISS2 OK.
+https://sh.visualon.com/node/71866	[Mobile][502546][Cableco] Intermitent crash when switching from Wifi to cell
+https://sh.visualon.com/node/68649	[T-Com (Croatia)] VisualOn Player 4K video support
+https://sh.visualon.com/node/66801	[CVA] iOS devices stop working after VCAS server upgrade
+https://sh.visualon.com/node/66686	[Verimatrix] License for Verimatrix Demo fails
+https://sh.visualon.com/node/66198	Support for the #EXT-X-SESSION-KEY tag on iOS
+https://sh.visualon.com/node/71295	Cannot play after upgrade
+https://sh.visualon.com/node/69249	[Telefonica] - Microfreezes in HLS playback
+https://sh.visualon.com/node/70959	[v3.28.10] SetUniqueIdentifier Error 35
+https://sh.visualon.com/node/70214	[VMX #202871] [Telia] - checking a failed content case
+https://sh.visualon.com/node/67180	[Verimatrix] Video is freezed for a while and no loading icon, but process bar is going.
+https://sh.visualon.com/node/67912	Cannot play WV link whereas can play PR link when setting date to 2018/8/29
+https://sh.visualon.com/node/66404	[Download]&quot;Delete all&quot; or &quot;Delete&quot; do not work after downloading PR/WV/CLR links
+https://sh.visualon.com/node/68662	[Verimatrix][Download manager][Android] Error 42 if playback downloaded offline link (during playback) with wifi off
+https://sh.visualon.com/node/69132	[Android][VMX][DASH]No AV output but process bar is active when playback some VMX DASH links
+https://sh.visualon.com/node/66671	[SW Widevine]a/v still output even the TV not support HDCP2.x
+https://sh.visualon.com/node/67449	[tvOS][AppTV 4K][ErrorCode]No error code pop up and a/v playback well to end if play playready link with LA url + Drm Type: PlayReady
+https://sh.visualon.com/node/66744	[Offline Playback]Player got error code 1 if offline playback 1.7M/7.2M/18.3M
+https://sh.visualon.com/node/65352	[VO-36][x86 devices]: Video has short pause from time to time during playing one playready HLS content (software codec)
+https://sh.visualon.com/node/66082	[Google widevine] Audio noise at about 1:53 when play Kkstream widevine content.
+https://sh.visualon.com/node/69410	[Widevine] Can only play a 10sec of downloaded content
+https://sh.visualon.com/node/69708	[Accedo] tvOS v3.27 support of Simulators
+https://sh.visualon.com/node/69582	[Google WV][HEVC]Has green bar or black bar when seek to 0 during playback with wv hevc link on Nexus 5x(8.1), Nexus 7 2(6.0.1) etc.
+https://sh.visualon.com/node/69210	[Verimatrix] It cannot playback a https link
+https://sh.visualon.com/node/68656	[tvOS][Verimatrix][4.2.1.10] &quot;Received DRM failed event&quot; is displayed when playback another DRM link with different server info
+https://sh.visualon.com/node/65730	[Telefonica] - Infinite loading if timeout error in live chunks (Live only)
+https://sh.visualon.com/node/71295	Cannot play after upgrade
+https://sh.visualon.com/node/69249	[Telefonica] - Microfreezes in HLS playback
+https://sh.visualon.com/node/70959	[v3.28.10] SetUniqueIdentifier Error 35
+https://sh.visualon.com/node/70214	[VMX #202871] [Telia] - checking a failed content case
+https://sh.visualon.com/node/67180	[Verimatrix] Video is freezed for a while and no loading icon, but process bar is going.
+https://sh.visualon.com/node/67912	Cannot play WV link whereas can play PR link when setting date to 2018/8/29
+https://sh.visualon.com/node/66404	[Download]&quot;Delete all&quot; or &quot;Delete&quot; do not work after downloading PR/WV/CLR links
+https://sh.visualon.com/node/68662	[Verimatrix][Download manager][Android] Error 42 if playback downloaded offline link (during playback) with wifi off
+https://sh.visualon.com/node/69132	[Android][VMX][DASH]No AV output but process bar is active when playback some VMX DASH links
+https://sh.visualon.com/node/66671	[SW Widevine]a/v still output even the TV not support HDCP2.x
+https://sh.visualon.com/node/67449	[tvOS][AppTV 4K][ErrorCode]No error code pop up and a/v playback well to end if play playready link with LA url + Drm Type: PlayReady
+https://sh.visualon.com/node/66744	[Offline Playback]Player got error code 1 if offline playback 1.7M/7.2M/18.3M
+https://sh.visualon.com/node/65352	[VO-36][x86 devices]: Video has short pause from time to time during playing one playready HLS content (software codec)
+https://sh.visualon.com/node/66082	[Google widevine] Audio noise at about 1:53 when play Kkstream widevine content.
+https://sh.visualon.com/node/69410	[Widevine] Can only play a 10sec of downloaded content
+https://sh.visualon.com/node/69708	[Accedo] tvOS v3.27 support of Simulators
+https://sh.visualon.com/node/69582	[Google WV][HEVC]Has green bar or black bar when seek to 0 during playback with wv hevc link on Nexus 5x(8.1), Nexus 7 2(6.0.1) etc.
+https://sh.visualon.com/node/69210	[Verimatrix] It cannot playback a https link
+https://sh.visualon.com/node/68656	[tvOS][Verimatrix][4.2.1.10] &quot;Received DRM failed event&quot; is displayed when playback another DRM link with different server info
+https://sh.visualon.com/node/65730	[Telefonica] - Infinite loading if timeout error in live chunks (Live only)
